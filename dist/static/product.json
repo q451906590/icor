@@ -1,0 +1,656 @@
+{
+	"SOFA":[
+		{
+			"name":"Frame Chair",
+			"img":"../static/img/product/sofa/1.jpg",
+			"price":"$3,190",
+			"title":"Frame Chair 單人沙發 - 米白",
+			"text":"Frame Chair 系列椅架採用橡膠木材質，活動式坐墊與背墊考量更佳的舒適度，在結構上有所不同，背墊採用軟質泡棉，座墊則是三明治式(軟質-高密度-軟質泡棉)，乘坐時椅背稍軟，椅座則是支撐度較佳、軟硬適中，椅套可選擇米色或褐色混紡布料。",
+			"start":3,
+			"color":"white",
+			"tag":"Instock New S Cotton Casual Singlepersonsofa"
+		},
+		{
+			"name":"Nakki ",
+			"img":"../static/img/product/sofa/2.jpg",
+			"price":"$3,160",
+			"title":"Nakki 沙發凳",
+			"text":"2015 年成立的丹麥設計品牌 WOUD 集結新一代優秀的北歐設計師作品，包括M-S-D-S, Poiat, Steffen Juul, Mikko Laakkonen, Philip Bro, Leonard Aldenhoff and Mika and Julie Tolvanen 等，\r創作出融合簡約美學與實用功能的居家產品。",
+			"start":4,
+			"color":"blue",
+			"tag":"Instock  M Cotton Casual Singlepersonsofa"
+		},
+		{
+			"name":"Nakki ",
+			"img":"../static/img/product/sofa/3.jpg",
+			"price":"$5,980",
+			"title":"Nakki 單人沙發",
+			"text":"2015 年成立的丹麥設計品牌 WOUD 集結新一代優秀的北歐設計師作品，包括M-S-D-S, Poiat, Steffen Juul, Mikko Laakkonen, Philip Bro, Leonard Aldenhoff and Mika and Julie Tolvanen 等，創作出融合簡約美學與實用功能的居家產品。",
+			"start":5,
+			"color":"blue",
+			"tag":"Instock  M Polyester Dressy Singlepersonsofa"
+		},
+		{
+			"name":"Nakki ",
+			"img":"../static/img/product/sofa/4.jpg",
+			"price":"$9,560",
+			"title":"Nakki 雙人沙發",
+			"text":"2015 年成立的丹麥設計品牌 WOUD 集結新一代優秀的北歐設計師作品，包括M-S-D-S, Poiat, Steffen Juul, Mikko Laakkonen, Philip Bro, Leonard Aldenhoff and Mika and Julie Tolvanen 等，創作出融合簡約美學與實用功能的居家產品。",
+			"start":4,
+			"color":"gray",
+			"tag":"Outofstock L Viscose Dressy Doublesofa"
+		},
+		{
+			"name":"Peppy ",
+			"img":"../static/img/product/sofa/5.jpg",
+			"price":"$5,860",
+			"title":"Nakki 雙人沙發",
+			"text":"Peppy 沙發是以 60 年代北歐設計為靈感，融合現代與復古的重新詮釋，圓潤的外型搭配實木腳架與椅面上的鈕扣，更添活潑幽默的魅力。尺寸: 寬91 x 深84 x 高77/座高42 cm;椅座: 高密度泡棉外覆纖維;椅背: 高密度泡棉;內裝: 楓木+ MDF + 彈簧",
+			"start":5,
+			"color":"gray",
+			"tag":"Instock L Polyester Girly Singlepersonsofa"
+		},
+		{
+			"name":"Peppy 沙發",
+			"img":"../static/img/product/sofa/6.jpg",
+			"price":"$9,260",
+			"title":"Nakki 雙人沙發",
+			"text":"Peppy 沙發是以 60 年代北歐設計為靈感，融合現代與復古的重新詮釋，圓潤的外型搭配實木腳架與椅面上的鈕扣，更添活潑幽默的魅力。尺寸: 寬176 x 深84 x 高77/座高42 cm;椅座: 高密度泡棉外覆纖維;椅背: 高密度泡棉;內裝: 楓木+ MDF + 彈簧",
+			"start":3,
+			"color":"gray",
+			"tag":"Instock L Cotton Dressy Doublesofa"
+		},
+		{
+			"name":"Don ",
+			"img":"../static/img/product/sofa/7.jpg",
+			"price":"$10,930",
+			"title":"Don 沙發",
+			"text":"Don 沙發以 60 年代紐約現代居家風格為靈感，揉合陽剛外型與柔美線條，筆直的整體外形中有著纖細的扶手與曲線的細節設計，營造舒適中性的家居氣息。尺寸: 寬202 x 深87 x 高77/座高44.5 cm;椅座: 高密度泡棉外覆羽絨及纖維;椅背: 高密度泡棉外覆羽絨及纖維;內裝: 楓木+MDF板料+彈性織帶",
+			"start":3,
+			"color":"gray",
+			"tag":"Instock L Cotton Casual Doublesofa"
+		},
+		{
+			"name":"Levitt 單人沙發",
+			"img":"../static/img/product/sofa/8.jpg",
+			"price":"$9,630",
+			"title":"Don 沙發",
+			"text":"Levitt 沙發系列完整的包含了單人沙發、躺椅及組合式沙發，簡約流暢的線條，散發優雅自然的現代感。彎曲的背靠內部結構為 MDF 板與木頭椅座結構，在不同部位外覆上密度各異的聚氨酯泡棉，可選擇搭配方塊型靠墊或抱枕(抗塵璊羽絨枕心)",
+			"start":5,
+			"color":"gray",
+			"tag":"Instock L Cotton Casual Singlepersonsofa"
+		},
+		{
+			"name":"Levitt ",
+			"img":"../static/img/product/sofa/9.jpg",
+			"price":"$13,900",
+			"title":"Levitt 沙發/躺椅",
+			"text":"Levitt 沙發系列完整的包含了單人沙發、躺椅及組合式沙發，簡約流暢的線條，散發優雅自然的現代感。彎曲的背靠內部結構為 MDF 板與木頭椅座結構，在不同部位外覆上密度各異的聚氨酯泡棉，可選擇搭配方塊型靠墊或抱枕(抗塵璊羽絨枕心)",
+			"start":4,
+			"color":"white",
+			"tag":"Instock M Polyester Casual Doublesofa"
+		},
+		{
+			"name":"Season ",
+			"img":"../static/img/product/sofa/10.jpg",
+			"price":" $13,600",
+			"title":"Season 沙發",
+			"text":"知名義大利建築師 Piero Lissoni 設計作品橫跨了建築 空間設計 產品 廚具等領域，堪稱當代義大利指標性的設計大師，2011 年首度與西班牙家具廠牌 Viccarbe 合作推出 Season 沙發長凳，簡約流線的造型婉如現代藝術雕塑，比例上的設計卻有別於一般沙發，刻意將椅座與椅背的比例拉近，模糊了深度的差別，卻凸顯出兩個平面的高度差，讓 Season 成為上下兩層皆是都是椅座的全面型沙發長凳。",
+			"start":2,
+			"color":"red",
+			"tag":"Instock M Polyester Casual Doublesofa"
+		},
+		{
+			"name":"Brix ",
+			"img":"../static/img/product/sofa/11.jpg",
+			"price":"$4,700",
+			"title":"Brix 沙發",
+			"text":"西班牙家具廠牌 Viccarbe 在 2013 年米蘭家具展推出日本設計師 Kensaku Oshiro 的作品 - Brix簡約俐落的幾何外型，可達到多樣性的功能使用，兩側特意設計不同大小的扶手，窄邊扶手減少空間的浪費，寬邊扶手則是會議中最適合用來簡單筆記的桌面尺寸，另外也可選購加有金屬烤漆邊几(固定式)的款式。",
+			"start":1,
+			"color":"white",
+			"tag":"Instock M Polyester Dressy Singlepersonsofa"
+		},
+		{
+			"name":"Penta ",
+			"img":"../static/img/product/sofa/12.jpg",
+			"price":"$5,680",
+			"title":"Penta 休閒椅",
+			"text":"Penta 扶手椅是設計師 Toan Nguyen 與西班牙家具廠牌 Viccarbe 於 2011 年米蘭展發表的新作，在義大利設計大師 Antonio Citterio 旗下擔任首席助理設計師的 Toan，10年來與 Antonio Citterio 聯手設計了多款精彩作品，從 Kartell 的 Spoon 辦公椅、Vitra 的 Follow Me 活動書櫃...等，到今年 Flos 的 Kevin 桌燈，承襲設計大師的內涵與獨到的設計視野，Toan 在 2008 年創立了自己設計公司，多家重量級家具廠牌爭相邀請他合作，成為近幾年最受矚目的設計師。",
+			"start":3,
+			"color":"purple",
+			"tag":"Instock M Viscose Dressy Singlepersonsofa"
+		},
+		{
+			"name":"Colubi ",
+			"img":"../static/img/product/sofa/13.jpg",
+			"price":"$5,960",
+			"title":"Colubi 雙人沙發",
+			"text":"Colubi 沙發外型上帶有濃厚的柯比意現代主義風格與元素，鋼管椅架延伸到沙發背面，卻可看見設計師將極簡主義發揮到極限的完美演出。Colubi 沙發內部實木椅體結構外覆上高密度泡棉，",
+			"start":5,
+			"color":"white",
+			"tag":"Instock M Viscose Girly Doublesofa"
+		},
+		{
+			"name":"Colubi ",
+			"img":"../static/img/product/sofa/14.jpg",
+			"price":"$4,230",
+			"title":"Colubi 單人沙發",
+			"text":"Colubi 沙發外型上帶有濃厚的柯比意現代主義風格與元素，鋼管椅架延伸到沙發背面，卻可看見設計師將極簡主義發揮到極限的完美演出。Colubi 沙發內部實木椅體結構外覆上高密度泡棉，",
+			"start":4,
+			"color":"gray",
+			"tag":"Instock M Viscose Girly Singlepersonsofa"
+		},
+		{
+			"name":"Fedele ",
+			"img":"../static/img/product/sofa/15.jpg",
+			"price":"$3,890",
+			"title":"Fedele 單人沙發",
+			"text":"西班牙設計師 Victor Carrasco 在 2009 年與西班牙傢俱廠牌 Viccarbe 首度合作推出 Fedele 沙發系列，簡潔俐落的幾何線條賦予 Fedele 雅緻的摩登感，實心木製結構上全面包覆延展泡棉，提供最佳的舒適度。",
+			"start":3,
+			"color":"gray",
+			"tag":"Instock M Viscose Casual Singlepersonsofa"
+		},
+		{
+			"name":"Fedele ",
+			"img":"../static/img/product/sofa/16.jpg",
+			"price":"$7,680",
+			"title":"Fedele 雙人沙發",
+			"text":"西班牙設計師 Victor Carrasco 在 2009 年與西班牙傢俱廠牌 Viccarbe 首度合作推出 Fedele 沙發系列，簡潔俐落的幾何線條賦予 Fedele 雅緻的摩登感，實心木製結構上全面包覆延展泡棉，提供最佳的舒適度。",
+			"start":2,
+			"color":"gray",
+			"tag":"Instock L Polyester Casual Singlepersonsofa"
+		}
+	],
+	"CHAIR":[
+		{
+			"name":"Pause",
+			"img":"../static/img/product/chair/1.jpg",
+			"price":"$980",
+			"title":"Pause 單椅",
+			"text":"Pause 系列是芬蘭設計師 Kasper Nyman 的作品，以俐落簡約的線條創作出舒適而優雅的一系列單椅及吧台椅，並可選購搭配活動式坐墊增添舒適感。",
+			"start":5,
+			"color":"brown",
+			"tag":"Instock New S Cotton Casual "
+		},
+				{
+			"name":"S.A.C. ",
+			"img":"../static/img/product/chair/2.jpg",
+			"price":"$1,480",
+			"title":"S.A.C. 扶手椅",
+			"text":"日本設計師 Naoya Matsuo 設計這款名為 S.A.C 單椅，以細膩的線條與曲度，低調的融入金屬與木質為結構，特殊的椅背曲線設計 不僅增加乘坐的舒適度，同時避免堆疊時上下椅座的碰撞。",
+			"start":4,
+			"color":"black",
+			"tag":"Instock  M Cotton Casual "
+
+		},
+				{
+			"name":"Mono ",
+			"img":"../static/img/product/chair/3.jpg",
+			"price":"$2,080",
+			"title":"Mono 單椅",
+			"text":"Mono 單椅來自創新思考的設計過程，發想自如何將木料像紙般捲成筒狀，採用革命型的木料材質 Grada 將原本需要多片拼接而成的椅座，簡化成單一片製成，外型更加俐落優雅，包覆型的椅座也大大提升舒適度。",
+			"start":4,
+			"color":"brown",
+			"tag":"Instock  M Polyester Dressy "
+		},
+				{
+			"name":"Dumbo",
+			"img":"../static/img/product/chair/4.jpg",
+			"price":"$1,930",
+			"title":"Dumbo 單椅",
+			"text":"來自義大利的家具品牌 Miniforms 自 1962 年成立，當時以小型家具與家飾配件奠立家具生產的根基，80 年代晚期 Miniforms 進軍國際市場，同時開拓了更加豐富的商品線，包括單椅 餐桌 書櫃等，為不同居家需求帶來各式家具產品， 2009 年起由三位兒子(Mr. Alessandro, Mr. Matteo 與 Mr. Mario)接手後，更將新鮮的設計思維注入品牌制作的現代家具之中，令產品更緊貼市場潮流。",
+			"start":3,
+			"color":"black",
+			"tag":"Outofstock L Viscose Dressy "
+			
+		},
+				{
+			"name":"Surpil-N°SL9 ",
+			"img":"../static/img/product/chair/5.jpg",
+			"price":"$1,250",
+			"title":"Surpil-N°SL9 單椅",
+			"text":"Surpil-N°SL9 單椅是法國設計師 Julien-Henri Porché 在 1927 年發表的經典設計，座墊為星形鏤空設計、特殊的結構設計可堆疊收納，相當輕巧耐用。典雅的法式風格無論是作為咖啡廳、餐廳的餐椅皆相當合適。室內空間或戶外場地都非常方便使用。",
+			"start":3,
+			"color":"white",
+			"tag":"Instock L Polyester Girly "
+		},
+				{
+			"name":"Kitono",
+			"img":"../static/img/product/chair/6.jpg",
+			"price":"$860",
+			"title":"Kitono 1 單椅",
+			"text":"繼 KARIMOKU60 推出廣受好評再次推出新品牌 Kitono，此品牌針對小資女、小資男為主。商品線延伸至書房空間，包含了書桌、書/餐桌椅、收納櫃等，同樣洋溢著濃厚的復古風情，在材質與設計細節裡，卻融入更多的現代技術與實用考量。",
+			"start":4,
+			"color":"brown",
+			"tag":"Instock L Cotton Dressy "
+		},
+				{
+			"name":"Kitono",
+			"img":"../static/img/product/chair/7.jpg",
+			"price":"$1,430",
+			"title":"Kitono 2 單椅",
+			"text":"Kitono 2 單椅彎曲的椅背與椅座設計，搭配高密度泡棉坐墊，在乘坐時，提供身體更多的支撐性與舒適度，實木椅架雅緻細膩的手感中更顯親切的人文情懷",
+			"start":5,
+			"color":"brown",
+			"tag":"Instock L Cotton Casual Doublesofa"
+
+		},
+			{
+			"name":"Morph Plus",
+			"img":"../static/img/product/chair/8.jpg",
+			"price":"$2,500",
+			"title":"Morph Plus 單椅",
+			"text":"具有高舒適性和穩定性的 Morph 單椅，結合實木腳架搭配層壓板椅座，其流暢且精緻的外觀造型，散發出簡約低調的質樸美感。Morph Plus 單椅相較原有 Morph 單椅增加了椅面寬度，對於體型較高大的您更加舒適。",
+			"start":2,
+			"color":"brown",
+			"tag":"Instock L Cotton Casual "
+		},
+				{
+			"name":"Morph Plus",
+			"img":"../static/img/product/chair/9.jpg",
+			"price":"$3,580",
+			"title":"Morph Plus 覆墊單椅",
+			"text":"具有高舒適性和穩定性的 Morph 單椅，結合實木腳架搭配層壓板椅座，其流暢且精緻的外觀造型，散發出簡約低調的質樸美感。Morph Plus 單椅相較原有 Morph 單椅增加了椅面寬度，對於體型較高大的您更加舒適。",
+			"start":4,
+			"color":"gray",
+			"tag":"Instock M Polyester Casual"
+		},
+				{
+			"name":"Pelle",
+			"img":"../static/img/product/chair/10.jpg",
+			"price":"$3,780",
+			"title":"Pelle 扶手椅- 布料厚墊板",
+			"text":"德國家具廠牌 ZEITRAUM 講究的不僅僅是傢俱，它著重的是一種'生活態度'，每件 ZEITRAUM 傢俱除了需具備實用、耐用、容易搭配的基本要件，更重要的是可以襯托使用者與空間的個性，簡約取代誇張花俏的線調，細膩精巧的做工低調傳遞設計師縝密的設計思維。",
+			"start":3,
+			"color":"brown",
+			"tag":"Instock M Polyester Casual "
+			
+		},
+				{
+			"name":"Masculo",
+			"img":"../static/img/product/chair/11.jpg",
+			"price":"$4,800",
+			"title":"Masculo 休閒椅",
+			"text":"Masculo 休閒椅是融合北歐優雅與現代機能線條的完美組合，設計雙人組 GamFratesi 兩位設計師分別從男性與女性的角度來解析設計物件，在外型、材質與機能上尋找平衡，Masculo 休閒椅椅背有著顯眼的陽剛氣息，線條上卻傳達出柔軟低調的女性特質。",
+			"start":3,
+			"color":"black",
+			"tag":"Instock M Polyester Dressy "
+		},
+				{
+			"name":"Lean",
+			"img":"../static/img/product/chair/12.jpg",
+			"price":"$2,180",
+			"title":"Masculo 休閒椅",
+			"text":"Lean 休閒椅極簡低調的造型中散發前衛的獨特個性，軟墊包覆的椅座提供舒適輕鬆的坐感。尺寸: 寬64 x 深66 x 高72/座高38 cm;內裝結構: 松木外覆泡棉及合成纖維;腳架: 金屬烤漆;椅套: 羊毛混紡。",
+			"start":4,
+			"color":"blue",
+			"tag":"Instock M Viscose Dressy "
+		},
+				{
+			"name":"Beetle ",
+			"img":"../static/img/product/chair/13.jpg",
+			"price":"$3,250",
+			"title":"Beetle 單椅",
+			"text":"丹麥品牌 Gubi 於 2013 年發表的 Beetle 單椅與吧台椅，設計師是來自丹麥與義大利的建築師組合 GamFratesi，靈感源自細微觀察下甲蟲優美而渾然天成的線條，椅座與椅背結構是兩片曲木膠合板組合而成，代表堅硬的甲殼外型，外覆的軟墊則增加了乘坐時的舒適度，圓管腳架由上而下細膩的線條變化，賦予 Beetle 低調而雅致的設計感。",
+			"start":5,
+			"color":"gray",
+			"tag":"Instock M Viscose Girly "
+		},
+				{
+			"name":"Beetle ",
+			"img":"../static/img/product/chair/14.jpg",
+			"price":"$5,380",
+			"title":"Beetle 休閒椅",
+			"text":"丹麥品牌 Gubi 於 2013 年發表的 Beetle 單椅與吧台椅，設計師是來自丹麥與義大利的建築師組合 GamFratesi，靈感源自細微觀察下甲蟲優美而渾然天成的線條，椅座與椅背結構是兩片曲木膠合板組合而成，代表堅硬的甲殼外型，外覆的軟墊則增加了乘坐時的舒適度，圓管腳架由上而下細膩的線條變化，賦予 Beetle 低調而雅致的設計感。",
+			"start":4,
+			"color":"gray",
+			"tag":"Instock M Viscose Girly "
+		},
+				{
+			"name":"Masculo",
+			"img":"../static/img/product/chair/15.jpg",
+			"price":"$3,300",
+			"title":"Masculo 扶手椅",
+			"text":"Masculo 休閒椅是融合北歐優雅與現代機能線條的完美組合，設計雙人組 GamFratesi 兩位設計師分別從男性與女性的角度來解析設計物件，在外型、材質與機能上尋找平衡，Masculo 休閒椅椅背有著顯眼的陽剛氣息，線條上卻傳達出柔軟低調的女性特質。",
+			"start":3,
+			"color":"gray",
+			"tag":"Instock M Viscose Casual "
+			
+		},
+				{
+			"name":"ACE soft",
+			"img":"../static/img/product/chair/16.jpg",
+			"price":"$5,320",
+			"title":"ACE soft 休閒椅",
+			"text":"法國建築設計大師 Jean-Marie Massaud 另一款休閒椅，在一貫的簡約優雅中，融入了建築與人體工學的結構考量，微凹的座面讓您在乘坐時能完全享受放鬆的休閒時光",
+			"start":3,
+			"color":"black",
+			"tag":"Instock L Polyester Casual "
+		}
+	],
+	"LIGHTING":[
+		{
+			"name":"GRAS N°303",
+			"img":"../static/img/product/lighting/1.jpg",
+			"price":"$1,560",
+			"title":"GRAS N°303 壁燈",
+			"text":"Bernard-Albin GRAS 是 20 世紀法國最具創新性的工業設計師之一，他所設計的燈款從每個細節中都能感受功能與型態美感的完美結合，無論是五金、燈臂、燈座融合造型與機能的設計堪稱當代設計潮流的先鋒，簡約洗鍊的工業風格，連現代主義大師 Le Corbusier 也是 GRAS Lamp 的擁護者之一，在他眾多的建築設計案與辦公室裡都同樣採用 GRAS Lamp。",
+			"start":4,
+			"color":"black",
+			"tag":"Instock New S Cotton Casual Walllamp"
+		},
+				{
+			"name":"Palazzo",
+			"img":"../static/img/product/lighting/2.jpg",
+			"price":"$1,530",
+			"title":"Palazzo 吊燈",
+			"text":"瑞典燈具品牌 RUBN 於 1951 年由 Uno 與 Östen Kristiansson 兩位兄弟創立，堪稱是瑞典燈具設計界的先鋒，至今已有 60 多年的歷史，所有的產品都是來自自家工廠以專業的手工生產，產品線廣泛地從居家延伸至商業空間，多樣化的材料使用，並專注於細節、功能與美感的完美呈現。",
+			"start":4,
+			"color":"black",
+			"tag":"Instock  M Cotton Casual "
+		},
+				{
+			"name":"Vogue Tripod ",
+			"img":"../static/img/product/lighting/3.jpg",
+			"price":"$3,180",
+			"title":"Vogue Tripod 立燈",
+			"text":"Vogue Tripod 立燈:尺寸: 直徑32 x 高110 cm;材質: 金屬烤漆/ 黃銅/ 玻璃散光罩;光源: 單顆 E27/9W LED燈泡",
+			"start":5,
+			"color":"black",
+			"tag":"Instock  M Polyester Dressy Floorlamp"
+		},
+				{
+			"name":"Vogue ",
+			"img":"../static/img/product/lighting/4.jpg",
+			"price":"$1,580",
+			"title":"Vogue 吊燈",
+			"text":"Vogue 吊燈:尺寸: 直徑11 x 高36.2 cm;材質: 黃銅/金屬烤漆+黃銅上蓋;光源: 單顆 E27/ 4W 燈泡;吊線: 3.7m 黑色織品吊線",
+			"start":3,
+			"color":"black",
+			"tag":"Outofstock L Viscose Dressy "
+		},
+				{
+			"name":"Arkipelag Twin",
+			"img":"../static/img/product/lighting/5.jpg",
+			"price":"$2,980",
+			"title":"Arkipelag Twin 立燈",
+			"text":"Arkipelag 系列靈感來自瑞典長筒狀的列島外型，上端可彎折的燈桿用來調整光線角度，使用在書桌旁、搭配休閒椅、沙發，Arkipelag 都是好選擇",
+			"start":3,
+			"color":"black",
+			"tag":"Instock L Polyester Girly Floorlamp"
+		},
+				{
+			"name":"Arkipelag",
+			"img":"../static/img/product/lighting/6.jpg",
+			"price":"$1,580",
+			"title":"Arkipelag 桌燈",
+			"text":"Arkipelag 系列靈感來自瑞典長筒狀的列島外型，上端可彎折的燈桿用來調整光線角度，使用在書桌旁、搭配休閒椅、沙發，Arkipelag 都是好選擇;尺寸：燈罩直徑11 x 底座直徑14.6 x 最高約100 cm;規格：使用 1 顆 E27/13W 省電燈泡;材質：鋁材、烤漆金屬、黑色織品電線;電源開關設置於底座上",
+			"start":4,
+			"color":"black",
+			"tag":"Instock L Cotton Dressy "
+		},
+				{
+			"name":"Arkipelag with table ",
+			"img":"../static/img/product/lighting/7.jpg",
+			"price":"$2,980",
+			"title":"Arkipelag with table 立燈",
+			"text":"Arkipelag 系列靈感來自瑞典長筒狀的列島外型，上端可彎折的燈桿用來調整光線角度，使用在書桌旁、搭配休閒椅、沙發，Arkipelag 都是好選擇;尺寸：燈罩直徑11 x 底座直徑30 x 最高約165 cm;規格：使用 1 顆 E27/13W 省電燈泡;材質：鋁材、烤漆金屬、黑色織品電線;電源開關設置於底座上",
+			"start":2,
+			"color":"black",
+			"tag":"Instock L Cotton Casual Floorlamp"
+		},
+				{
+			"name":"Lektor ",
+			"img":"../static/img/product/lighting/8.jpg",
+			"price":"$2,380",
+			"title":"Lektor 立燈",
+			"text":"Lektor 立燈:尺寸：底座寬21.5 x 高122 cm;規格：使用 1 顆 GU10/4W LED燈泡;材質：金屬烤漆、黃銅、織品電線;燈罩可調光照角度。",
+			"start":5,
+			"color":"black",
+			"tag":"Instock L Cotton Casual Floorlamp"
+		},
+				{
+			"name":"Lektor",
+			"img":"../static/img/product/lighting/9.jpg",
+			"price":"$2,080",
+			"title":"Lektor 桌燈",
+			"text":"Lektor 桌燈:尺寸：底座直徑19.5 x 燈桿高39.5 cm;規格：使用 1 顆 GU10/4W LED 燈泡;材質：金屬烤漆、黃銅、織品電線;燈罩可調光照角度;燈身可調傾斜角度",
+			"start":4,
+			"color":"gold",
+			"tag":"Instock L Cotton Casual "
+		},
+				{
+			"name":"Opus 2",
+			"img":"../static/img/product/lighting/10.jpg",
+			"price":"$1,850",
+			"title":"Opus 2 吊燈",
+			"text":"Opus 2 吊燈：(單件):尺寸：燈罩直徑23 x 長37 cm;規格：使用單顆 E27/13W 以下省電燈泡;材質：黃銅、玻璃燈罩",
+			"start":3,
+			"color":"white",
+			"tag":"Instock M Polyester Casual "
+		},
+				{
+			"name":"Opus 1",
+			"img":"../static/img/product/lighting/11.jpg",
+			"price":"$2,850",
+			"title":"Opus 1 吊燈",
+			"text":"Opus1 吊燈：(單件):尺寸：燈罩直徑12 x 長70 cm;規格：使用單顆 E27/13W 以下省電燈泡;材質：黃銅、玻璃燈罩",
+			"start":5,
+			"color":"white",
+			"tag":"Outofstock L Viscose Dressy "
+		},
+				{
+			"name":"Bolero ",
+			"img":"../static/img/product/lighting/12.jpg",
+			"price":"$2,080",
+			"title":"Bolero 桌燈",
+			"text":"Bolero 桌燈：尺寸：燈罩直徑31 x 底座直徑19.5 x 高52 cm;規格：使用 2 顆 E27/13W 省電燈泡;材質：鋁材、烤漆金屬、黑色織品電線",
+			"start":4,
+			"color":"black",
+			"tag":"Instock M Viscose Dressy "
+		},
+				{
+			"name":"Bolero with table",
+			"img":"../static/img/product/lighting/13.jpg",
+			"price":"$3,680",
+			"title":"Bolero with table 立燈",
+			"text":"Bolero with table 立燈：尺寸：燈罩直徑31 x 底座直徑30 x 高126 cm;規格：使用 2 顆 E27/13W 省電燈泡;材質：鋁材、烤漆金屬、黑色織品電線",
+			"start":3,
+			"color":"black",
+			"tag":"Instock L Polyester Casual Floorlamp"
+		},
+				{
+			"name":"Nomad",
+			"img":"../static/img/product/lighting/14.jpg",
+			"price":"$1,060",
+			"title":"Nomad 吊燈",
+			"text":"Nomad 吊燈：尺寸:直徑10.2 x 高21.5 cm;光源: 單顆 E27/7W LED;材質: 黃銅/ 金屬烤漆;吊線: 3.8m 織品吊線;(白色燈罩款式搭配白色吊線/吸頂蓋，其他顏色款式均搭配黑色吊線/吸頂蓋)",
+			"start":2,
+			"color":"black",
+			"tag":"Instock L Polyester Casual Floorlamp"
+		},
+				{
+			"name":"Nomad Double ",
+			"img":"../static/img/product/lighting/15.jpg",
+			"price":"$1,330",
+			"title":"Nomad Double 吊燈",
+			"text":"Nomad Double 吊燈：尺寸:直徑11.4 x 高25.5 cm;光源: 單顆 E27/7W LED;材質: 黃銅/ 金屬烤漆;吊線: 3.8m 織品吊線;(白色燈罩款式搭配白色吊線/吸頂蓋，其他顏色款式均搭配黑色吊線/吸頂蓋)",
+			"start":4,
+			"color":"black",
+			"tag":"Instock L Polyester Girly "
+		},
+				{
+			"name":"Nomad ",
+			"img":"../static/img/product/lighting/16.jpg",
+			"price":"$2,980",
+			"title":"Nomad 立燈",
+			"text":"Nomad 立燈：尺寸：燈桿深25 x 底座寬23 x 總高133 cm;規格：使用單顆 GU10/4W LED;材質：金屬烤漆、黃銅;燈罩可調高度及光照角度。",
+			"start":4,
+			"color":"black",
+			"tag":"Instock L Polyester Girly Floorlamp"
+		}
+	],
+	
+	"PAGES":[
+		{
+			"name":"Kelim Triangles",
+			"img":"../static/img/product/sale/1.jpg",
+			"price":"$480",
+			"title":"Kelim Triangles 地毯",
+			"text":"Kelim 地毯系列是全手工製作，傳統古老的編織技術製成以手染技術傳達現代的抽象藝術，羊毛手染時會因羊毛材質和染色的特質會有一些濃淡變化，顏色有輕微的差異，每張地毯卻是獨一無二，為您的空間打造出一抹自然清新北歐的意象。此地毯建議穿室內拖使用。",
+			"start":5,
+			"color":"white",
+			"tag":"Instock L Polyester Girly "
+		},
+				{
+			"name":"Bits & Bobs ",
+			"img":"../static/img/product/sale/2.jpg",
+			"price":"$53",
+			"title":"Bits & Bobs 置物皿",
+			"text":"Bits & Bobs 置物皿系列討喜的繽紛色彩, 是妝點桌面的吸睛擺飾。此外也可收納文具如迴紋針、圖釘...等。同時也是項鍊、耳環、戒子...等小物的最佳收納幫手。",
+			"start":3,
+			"color":"pink",
+			"tag":"Instock New S Cotton Casual "
+		},
+				{
+			"name":"Storm",
+			"img":"../static/img/product/sale/3.jpg",
+			"price":"$380",
+			"title":"Storm 方形靠枕",
+			"text":"比利時設計師 Sylvain Willenz 與瑞典 HEM 所合作推出的抱枕系列，以繽紛的色彩與幾何線條，為居家置入一抹清新明亮的氣息。Storm 靠枕系列：(單件)尺寸：50 x 50 cm；材質：60% 羊毛，40% 合成纖維",
+			"start":4,
+			"color":"white",
+			"tag":"Instock  M Cotton Casual Pillow"
+		},
+				{
+			"name":"Storm",
+			"img":"../static/img/product/sale/4.jpg",
+			"price":"$380",
+			"title":"Storm 長形靠枕",
+			"text":"比利時設計師 Sylvain Willenz 與瑞典 HEM 所合作推出的抱枕系列，以繽紛的色彩與幾何線條，為居家置入一抹清新明亮的氣息。Storm 靠枕系列：(單件)尺寸：60 x 40 cm；材質：60% 羊毛，40% 合成纖維",
+			"start":2,
+			"color":"blue",
+			"tag":"Instock M Polyester Casual Pillow"
+		},
+				{
+			"name":"Landmarks",
+			"img":"../static/img/product/sale/5.jpg",
+			"price":"$280",
+			"title":"Landmarks 置物皿",
+			"text":"源自瑞典的設計品牌 HEM 以創造新的生活方式為品牌概念，與來自不同國家的設計新銳合作開發原創性的家具與家飾，產品都在位於赫爾辛基的工作坊生產，以合理的價格、創新的設計與手工品質期許為使用者帶來可以世代相傳的居家用品。",
+			"start":4,
+			"color":"brown",
+			"tag":"Instock M Polyester Casual "
+		},
+				{
+			"name":"Landmarks",
+			"img":"../static/img/product/sale/6.jpg",
+			"price":"$368",
+			"title":"Landmarks 書擋",
+			"text":"源自瑞典的設計品牌 HEM 以創造新的生活方式為品牌概念，與來自不同國家的設計新銳合作開發原創性的家具與家飾，產品都在位於赫爾辛基的工作坊生產，以合理的價格、創新的設計與手工品質期許為使用者帶來可以世代相傳的居家用品。",
+			"start":5,
+			"color":"white",
+			"tag":"Instock M Polyester Dressy "
+		},
+				{
+			"name":"Tower Block",
+			"img":"../static/img/product/sale/7.jpg",
+			"price":"$65",
+			"title":"Tower Block 便利紙座",
+			"text":"Tower Block 便利紙造型設計由如辦公商業大樓，使用於辦公室或當作桌上擺飾，讓我們在辦公室裡的時光有更多的個人色彩也為辦公室添加新風格。",
+			"start":3,
+			"color":"green",
+			"tag":"Instock L Cotton Casual "
+		},
+				{
+			"name":"Scent Elements ",
+			"img":"../static/img/product/sale/8.jpg",
+			"price":"$990",
+			"title":"Scent Elements 元素香氛蠟燭組",
+			"text":"2014年的巴黎家飾展，Tom Dixon又推出了豔驚四座的新作：以口吹玻璃手工上色的 Scent Elements 元素香氛燭瓶，四個東方哲學命題，自然藥草元素入味。",
+			"start":4,
+			"color":"red、blcak、blue、white",
+			"tag":"Instock M Viscose Girly "
+		},
+				{
+			"name":"Stripe",
+			"img":"../static/img/product/sale/9.jpg",
+			"price":"$728",
+			"title":"Stripe 羊毛披毯",
+			"text":"維也納時裝設計師 Arthur Arbesser 與瑞典 HEM 所合作推出的織品系列，以亮眼的色彩與線條，為居家置入一抹清新明亮的氣息。Stripe 羊毛披毯：(單件)尺寸：130 x 180 cm;材質：100% 紐西蘭羊毛。",
+			"start":5,
+			"color":"black、white",
+			"tag":"Instock M Viscose Girly "
+		},
+				{
+			"name":"Wooden Clips",
+			"img":"../static/img/product/sale/10.jpg",
+			"price":"$72",
+			"title":"Wooden Clips 小圓夾組",
+			"text":"丹麥家飾品牌 Ferm Living  推出的 Wooden Clip 木夾, 以幾何的線條搭配柔和的粉彩色塊, 可用來夾附文件為書桌增添樂趣, 每個木夾背面都有個圓孔, 也可搭配吊線掛附在牆面上, 隨時夾上照片, memo等輕鬆紀錄生活點滴. ",
+			"start":3,
+			"color":"black、green、blue、white、brown、",
+			"tag":"Instock M Polyester Casual "
+		},
+				{
+			"name":"Silenzio",
+			"img":"../static/img/product/sale/11.jpg",
+			"price":"$208",
+			"title":"Silenzio 軟木缽",
+			"text":"源自瑞典的設計品牌 HEM 以創造新的生活方式為品牌概念，與來自不同國家的設計新銳合作開發原創性的家具與家飾，產品都在位於赫爾辛基的工作坊生產，以合理的價格、創新的設計與手工品質期許為使用者帶來可以世代相傳的居家用品 ",
+			"start":3,
+			"color":"Khaki",
+			"tag":"Instock M Polyester Casual "
+		},
+				{
+			"name":"Slice Desk Organiser ",
+			"img":"../static/img/product/sale/12.jpg",
+			"price":"$208",
+			"title":"Slice Desk Organiser 置物盒",
+			"text":"源自瑞典的設計品牌 HEM 以創造新的生活方式為品牌概念，與來自不同國家的設計新銳合作開發原創性的家具與家飾，產品都在位於赫爾辛基的工作坊生產，以合理的價格、創新的設計與手工品質期許為使用者帶來可以世代相傳的居家用品 ",
+			"start":2,
+			"color":"Khaki",
+			"tag":"Instock New S Cotton Casual "
+		},
+				{
+			"name":"Geo Outline",
+			"img":"../static/img/product/sale/13.jpg",
+			"price":"$1800",
+			"title":"Geo Outline 地毯",
+			"text":"Geo Outline 是瑞典設計公司 HEM 所推出的地毯系列，以繽紛的色彩與幾何線條，為居家帶來清新明亮的北歐氣息。此地毯建議穿室內拖使用。 ",
+			"start":5,
+			"color":"gray",
+			"tag":"Instock  M Cotton Casual "
+		},
+				{
+			"name":"Basketweave",
+			"img":"../static/img/product/sale/14.jpg",
+			"price":"$920",
+			"title":"Basketweave 地毯",
+			"text":"織品設計師 Evan Clabots & Anne Lopez 與瑞典設計廠牌 HEM 所合作推出的地毯系列，以溫暖柔和的色系和舒適的材質，為居家帶來清爽宜人的北歐氣息。 ",
+			"start":4,
+			"color":"blue",
+			"tag":"Instock L Polyester Casual "
+		},
+				{
+			"name":"Triangle Basket",
+			"img":"../static/img/product/sale/15.jpg",
+			"price":"$118",
+			"title":"Triangle Basket 收納籃",
+			"text":"設計師 Trine Andersen 汲取北歐自然、美麗的元素為靈感，創作出充滿清新氣息而饒富趣味性的設計商品，2005 年在她的設計廣受來自世界各地青睞的同時，她決定開始經營自己的獨立品牌 Ferm Living。 ",
+			"start":3,
+			"color":"white",
+			"tag":"Instock L Polyester Casual "
+		},
+				{
+			"name":"Bias ",
+			"img":"../static/img/product/sale/16.jpg",
+			"price":"$1,050",
+			"title":"Bias 收納櫃組",
+			"text":"Bias 收納櫃靈感源自於工業使用的包裝箱，以創新的思維設計別出心裁的壁面收納。不同大小的矩形單元組合不僅讓視覺上更加豐富、有層次，同時也符合展示與收納的多樣機能性;白色與櫸木原色的搭配洋溢著北歐的清新風格，為空白的牆面妝點出一抹自然的氣息。",
+			"start":5,
+			"color":"Khaki",
+			"tag":"Instock M Viscose Girly "
+		}
+	]
+}
